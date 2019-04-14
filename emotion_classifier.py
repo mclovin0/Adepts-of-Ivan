@@ -20,3 +20,4 @@ class EmotionClassifier:
 
 eml = EmotionClassifier()
 eml.emotion_classify()
+eml.emotion_classify()
